@@ -1,0 +1,34 @@
+[
+  {
+    "name": "name",
+    "label": "Name",
+    "type": "text",
+    "required": true,
+    "pattern": "",
+    "errorMessage": "It's Required - [20 characters max]"
+  },
+  {
+    "name": "surname",
+    "label": "Surname",
+    "type": "text",
+    "required": false,
+    "pattern": "",
+    "errorMessage": "[20 characters max]"
+  },
+  {
+    "name": "password",
+    "label": "Password",
+    "type": "password",
+    "required": true,
+    "pattern": "",
+    "errorMessage": "It's Required - [20 characters max]"
+  },
+  {
+    "name": "date",
+    "label": "Date",
+    "type": "date",
+    "required": true,
+    "pattern": "",
+    "errorMessage": "It's Required - [20 characters max]"
+  }
+]
